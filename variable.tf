@@ -8,7 +8,7 @@ variable "instance_type" {
   description = "The type of the instance"
   type        = string
 }
-variable "subnet_id" {
+variable "subnet-id" {
   type=string
 
 }
